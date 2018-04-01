@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1f993a8-b546-4b83-98a3-b6487af31a16" name="Changes" comment="factory method" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gqezB782UF5ZSQxSQwnTs4gwHf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aeroplane.executor": "Run",
+    "Application.AllPathsForASum.executor": "Debug",
+    "Application.Athlete.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.BackspaceCompare.executor": "Run",
+    "Application.BalancedParentheses.executor": "Run",
+    "Application.BigDecimalComparison.executor": "Run",
+    "Application.BinaryTrePathSum.executor": "Debug",
+    "Application.Boat.executor": "Run",
+    "Application.Bounce.executor": "Run",
+    "Application.Bubble.executor": "Debug",
+    "Application.Bull.executor": "Run",
+    "Application.Cars.executor": "Run",
+    "Application.CartoonCat.executor": "Run",
+    "Application.Computer.executor": "Run",
+    "Application.ConnectLevelOrderSiblings.executor": "Debug",
+    "Application.CoordinatedWorkRunner.executor": "Run",
+    "Application.CycleInCircularArray.executor": "Run",
+    "Application.Dance.executor": "Run",
+    "Application.DecimalToBinary.executor": "Run",
+    "Application.DutchFlag.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Examples.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.Fishing.executor": "Run",
+    "Application.ForkJoinExample.executor": "Debug",
+    "Application.FrequencySort.executor": "Debug",
+    "Application.GenericsInheritance.executor": "Run",
+    "Application.GoodAccumulator.executor": "Run",
+    "Application.Happy.executor": "Run",
+    "Application.HappyNumber.executor": "Debug",
+    "Application.HeightBalanced.executor": "Run",
+    "Application.Hello.executor": "Debug",
+    "Application.JsonFormatter.executor": "Run",
+    "Application.KthLargestNumberInStream.executor": "Run",
+    "Application.KthSmallestInMSortedArrays.executor": "Run",
+    "Application.L3.executor": "Run",
+    "Application.L316.executor": "Run",
+    "Application.LogHelper.executor": "Run",
+    "Application.LongestPalindrome.executor": "Run",
+    "Application.Luck.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxNumberOfBalloons.executor": "Debug",
+    "Application.MaximumDepth.executor": "Debug",
+    "Application.MergeKSortedLists.executor": "Run",
+    "Application.MinHeap.executor": "Run",
+    "Application.Mixup.executor": "Run",
+    "Application.MyComparator.executor": "Run",
+    "Application.NextGreater.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.NumberOfProvincesUnionFind.executor": "Run",
+    "Application.OcpThreadsExercise9.executor": "Run",
+    "Application.Ouch.executor": "Run",
+    "Application.PizzaStore.executor": "Run",
+    "Application.QuadrupleSumToTarget.executor": "Run",
+    "Application.Race.executor": "Run",
+    "Application.RearrangeLinkedList.executor": "Debug",
+    "Application.RemoveAllAdjacentDuplicates.executor": "Run",
+    "Application.RemoveAllAdjacentDuplicatesII.executor": "Run",
+    "Application.RemoveDuplicateLetters.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveKDigits.executor": "Run",
+    "Application.RemoveNodesFromLinkedList.executor": "Debug",
+    "Application.ReverseEveryKElements.executor": "Run",
+    "Application.Riddle.executor": "Run",
+    "Application.SelfImplementMaxHeap.executor": "Run",
+    "Application.SmallestWindowContainingSubstring.executor": "Debug",
+    "Application.SortStack.executor": "Run",
+    "Application.Speaking.executor": "Run",
+    "Application.TEst.executor": "Run",
+    "Application.Television.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Debug",
+    "Application.TestClass.executor": "Run",
+    "Application.TestSet.executor": "Run",
+    "Application.ThreadLocalExample.executor": "Run",
+    "Application.TpsReport.executor": "Run",
+    "Application.TreeLevelOrderTraversal.executor": "Debug",
+    "Application.TreePathSum.executor": "Run",
+    "Application.TripletsWithSmallerSum.executor": "Run",
+    "Application.TwoThreads.executor": "Run",
+    "Application.exercise10.executor": "Debug",
+    "Application.mapcompute.executor": "Run",
+    "Application.ocp.datatypes.UKOCP20300.Test.executor": "Debug",
+    "Application.ocp.datatypes.UKOCP49189.Test.executor": "Run",
+    "Application.ocp.datatypes.UKOCP50172.Test.executor": "Run",
+    "Application.ocp.datatypes.UKOCP67831.Test.executor": "Run",
+    "Application.ocp.datatypes.UKOCP76305.Test.executor": "Run",
+    "Application.ocp.datatypes.UKOCP88788.Test.executor": "Run",
+    "Application.ocp.generics.practicetests.c563.Test.executor": "Run",
+    "Application.ocp.multithread.practicetest.c82.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP10117.Test.executor": "Debug",
+    "Application.ocp.oop.UKOCP32368.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP43491.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP46539.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP48701.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP53249.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP54140.Test.executor": "Run",
+    "Application.ocp.oop.UKOCP76394.Test.executor": "Debug",
+    "Application.org.example.datastructures.stack.RemoveDuplicates.executor": "Run",
+    "Application.question12.executor": "Run",
+    "Maven.test [clean].executor": "Run",
+    "Maven.test [compile].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/sonhoangthanh/LEARN/java/designpatterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.headfirst.factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory" />
+      <recent name="$PROJECT_DIR$/src/main/java/ocp/oop/UKOCP66589/c" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.dfs" />
+      <recent name="ocp.oop.UKOCP66589.b" />
+      <recent name="ocp.oop.UKOCP66589.a" />
+      <recent name="ocp.oop.UKOCP45203" />
+      <recent name="ocp.oop.UKOCP66589" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.headfirst.abstractfactory" />
+      <recent name="org.example.datastructures.hashtable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PizzaStore">
+    <configuration name="AllPathsForASum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.dfs.AllPathsForASum" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.algorithms.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTrePathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.dfs.BinaryTrePathSum" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.algorithms.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfProvincesUnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.datastructures.graph.NumberOfProvincesUnionFind" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.datastructures.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.headfirst.abstractfactory.PizzaStore" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.headfirst.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.bfs.TreeLevelOrderTraversal" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.algorithms.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="test" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaStore" />
+        <item itemvalue="Application.NumberOfProvincesUnionFind" />
+        <item itemvalue="Application.AllPathsForASum" />
+        <item itemvalue="Application.BinaryTrePathSum" />
+        <item itemvalue="Application.TreeLevelOrderTraversal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f993a8-b546-4b83-98a3-b6487af31a16" name="Changes" comment="" />
+      <created>1716429794847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716429794847</updated>
+      <workItem from="1716429795876" duration="653000" />
+      <workItem from="1716459956599" duration="1335000" />
+      <workItem from="1716516199406" duration="12000" />
+      <workItem from="1717987255642" duration="1105000" />
+      <workItem from="1718175993449" duration="8028000" />
+      <workItem from="1718266487657" duration="1271000" />
+      <workItem from="1718336480152" duration="41000" />
+      <workItem from="1719814654234" duration="2796000" />
+      <workItem from="1720411807133" duration="4318000" />
+      <workItem from="1720493849864" duration="1830000" />
+      <workItem from="1720575734258" duration="13000" />
+      <workItem from="1721890105790" duration="1344000" />
+      <workItem from="1722325665783" duration="2000" />
+      <workItem from="1722325677089" duration="1293000" />
+      <workItem from="1722390173112" duration="28000" />
+      <workItem from="1722399700393" duration="1172000" />
+      <workItem from="1722406267263" duration="9000" />
+      <workItem from="1722500963513" duration="339000" />
+      <workItem from="1722592700813" duration="2168000" />
+      <workItem from="1722595277900" duration="344000" />
+      <workItem from="1722838179567" duration="1700000" />
+      <workItem from="1722842482866" duration="9000" />
+      <workItem from="1722846432878" duration="4756000" />
+      <workItem from="1722911535850" duration="6333000" />
+      <workItem from="1723112995783" duration="748000" />
+      <workItem from="1723185069024" duration="11022000" />
+      <workItem from="1723518418909" duration="4322000" />
+      <workItem from="1723523563687" duration="9205000" />
+      <workItem from="1723600383128" duration="8792000" />
+      <workItem from="1723689675842" duration="7000" />
+      <workItem from="1724382927479" duration="7793000" />
+      <workItem from="1724401498028" duration="2835000" />
+      <workItem from="1724638413224" duration="1610000" />
+      <workItem from="1724662217598" duration="5683000" />
+      <workItem from="1724837823879" duration="2935000" />
+      <workItem from="1724843203921" duration="868000" />
+      <workItem from="1724894032464" duration="13284000" />
+      <workItem from="1724983978566" duration="20684000" />
+      <workItem from="1729073059026" duration="2283000" />
+      <workItem from="1729130927760" duration="3075000" />
+      <workItem from="1729143337166" duration="1053000" />
+      <workItem from="1729476819579" duration="795000" />
+      <workItem from="1730708970535" duration="1396000" />
+      <workItem from="1730771636434" duration="60000" />
+      <workItem from="1730801407796" duration="1267000" />
+      <workItem from="1730859391803" duration="1202000" />
+      <workItem from="1731044288429" duration="1004000" />
+      <workItem from="1731056282685" duration="632000" />
+      <workItem from="1731470227523" duration="496000" />
+      <workItem from="1731476634755" duration="787000" />
+      <workItem from="1731486977746" duration="3773000" />
+      <workItem from="1731568653038" duration="5677000" />
+      <workItem from="1731632122812" duration="243000" />
+      <workItem from="1731632374709" duration="9846000" />
+      <workItem from="1731896327872" duration="3295000" />
+      <workItem from="1731905091298" duration="2690000" />
+      <workItem from="1731921212248" duration="2452000" />
+      <workItem from="1731994386612" duration="1471000" />
+      <workItem from="1732497253641" duration="2679000" />
+      <workItem from="1732862337140" duration="878000" />
+      <workItem from="1732876089796" duration="1469000" />
+      <workItem from="1732936446391" duration="715000" />
+      <workItem from="1733103918680" duration="611000" />
+      <workItem from="1733106878906" duration="8933000" />
+      <workItem from="1733130212973" duration="547000" />
+      <workItem from="1733131877011" duration="3109000" />
+      <workItem from="1733192323884" duration="2429000" />
+      <workItem from="1733274704630" duration="2937000" />
+      <workItem from="1733363562394" duration="619000" />
+      <workItem from="1733452162890" duration="7898000" />
+      <workItem from="1733968502386" duration="599000" />
+      <workItem from="1733996010038" duration="1650000" />
+      <workItem from="1734053874288" duration="6000" />
+      <workItem from="1734080426581" duration="4884000" />
+      <workItem from="1734312790168" duration="1783000" />
+      <workItem from="1735003863267" duration="1359000" />
+      <workItem from="1735546163056" duration="5905000" />
+      <workItem from="1735554928346" duration="500000" />
+      <workItem from="1735610245445" duration="1101000" />
+      <workItem from="1735611424808" duration="5952000" />
+      <workItem from="1735787861228" duration="6403000" />
+      <workItem from="1735806922542" duration="5759000" />
+      <workItem from="1735868074434" duration="3349000" />
+      <workItem from="1735903889625" duration="15000" />
+      <workItem from="1736488111692" duration="1254000" />
+      <workItem from="1736830278141" duration="13458000" />
+      <workItem from="1736905038126" duration="577000" />
+      <workItem from="1736925955477" duration="2943000" />
+      <workItem from="1736932885361" duration="1323000" />
+      <workItem from="1736993735395" duration="11442000" />
+      <workItem from="1737079460890" duration="7475000" />
+      <workItem from="1737351429228" duration="1078000" />
+      <workItem from="1737436807876" duration="2126000" />
+      <workItem from="1738744441591" duration="3708000" />
+      <workItem from="1738808772093" duration="2081000" />
+      <workItem from="1744102942868" duration="50000" />
+      <workItem from="1744167649480" duration="12000" />
+      <workItem from="1746610309473" duration="1921000" />
+      <workItem from="1746668122682" duration="39000" />
+      <workItem from="1746668430440" duration="921000" />
+    </task>
+    <task id="LOCAL-00001" summary="factory pattern">
+      <option name="closed" value="true" />
+      <created>1746612140191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746612140191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="improved abstract factory">
+      <option name="closed" value="true" />
+      <created>1746668735295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746668735295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="factory pattern">
+      <option name="closed" value="true" />
+      <created>1746668915317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746668915317</updated>
+    </task>
+    <task id="LOCAL-00004" summary="factory pattern">
+      <option name="closed" value="true" />
+      <created>1746669011702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746669011702</updated>
+    </task>
+    <task id="LOCAL-00005" summary="factory pattern">
+      <option name="closed" value="true" />
+      <created>1746669016592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746669016592</updated>
+    </task>
+    <task id="LOCAL-00006" summary="factory pattern">
+      <option name="closed" value="true" />
+      <created>1746669248552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746669248552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="factory method">
+      <option name="closed" value="true" />
+      <created>1746669668387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746669668387</updated>
+    </task>
+    <task id="LOCAL-00008" summary="factory method">
+      <option name="closed" value="true" />
+      <created>1746669734708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746669734708</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="improved abstract factory" />
+    <MESSAGE value="abstract factory" />
+    <MESSAGE value="factory pattern" />
+    <MESSAGE value="factory method" />
+    <option name="LAST_COMMIT_MESSAGE" value="factory method" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ocp/threads/exercise10.java</url>
+          <line>14</line>
+          <properties class="ocp.threads.MyThread">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ocp/threads/exercise10.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/kwaymerge/MergeKSortedLists.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/binarytree/HeightBalanced.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/reverselinkedlist/ReverseSubList.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/stack/RemoveNodesFromLinkedList.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/stack/RemoveNodesFromLinkedList.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/monotomicstack/NextGreaterElement.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/monotomicstack/RemoveKDigits.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/monotomicstack/RemoveKDigits.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/monotomicstack/RemoveKDigits.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/datastructures/hashtable/MaxNumberOfBalloons.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/bfs/TreeLevelOrderTraversal.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/dfs/AllPathsForASum.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
