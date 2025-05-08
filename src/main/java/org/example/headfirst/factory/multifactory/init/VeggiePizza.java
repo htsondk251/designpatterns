@@ -1,4 +1,5 @@
-package org.example.headfirst.factory;
+package org.example.headfirst.factory.multifactory.init;
+
 
 /**
  * @version 1.0

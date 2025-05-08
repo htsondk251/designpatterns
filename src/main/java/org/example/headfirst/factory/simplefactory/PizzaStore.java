@@ -1,4 +1,4 @@
-package org.example.headfirst.factory;
+package org.example.headfirst.factory.simplefactory;
 
 /**
  * @version 1.0

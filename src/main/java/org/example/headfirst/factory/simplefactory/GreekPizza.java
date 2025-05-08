@@ -1,4 +1,4 @@
-package org.example.headfirst.factory;
+package org.example.headfirst.factory.simplefactory;
 
 /**
  * @version 1.0
@@ -6,5 +6,5 @@ package org.example.headfirst.factory;
  * @author: sonhoangthanh
  * @date: 07/05/2025 17:33
  */
-public class CheesePizza extends Pizza {
+public class GreekPizza extends Pizza {
 }
