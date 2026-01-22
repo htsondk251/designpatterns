@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1f993a8-b546-4b83-98a3-b6487af31a16" name="Changes" comment="improved factory method">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/factory/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/factory/PizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/FreshClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/RedPepper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/SlicedPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/headfirst/abstractfactory/ingredients/Veggies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1f993a8-b546-4b83-98a3-b6487af31a16" name="Changes" comment="abstract factory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -511,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746676412580</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="abstract factory">
+      <option name="closed" value="true" />
+      <created>1746678259924</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746678259924</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,11 +511,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="factory pattern" />
     <MESSAGE value="factory method" />
-    <MESSAGE value="abstract factory" />
     <MESSAGE value="improved abstract factory" />
     <MESSAGE value="abstract factory&#10;&#10;improved factory method" />
     <MESSAGE value="improved factory method" />
-    <option name="LAST_COMMIT_MESSAGE" value="improved factory method" />
+    <MESSAGE value="abstract factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract factory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
